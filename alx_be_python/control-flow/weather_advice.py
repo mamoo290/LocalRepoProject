@@ -1,3 +1,5 @@
+
+# Updated to trigger latest commit check
 weather = input("What's the weather like today? (sunny/rainy/cold): ").lower()
 
 if weather == "sunny":
